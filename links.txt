@@ -1,0 +1,17 @@
+Task1:
+https://bl.ocks.org/albert6051/raw/5dfc934c6df5f97a6291f8aedc742e9c/
+
+Task2:
+https://albert6051.carto.com/builder/1e8f3da7-eb38-4c2f-b0d3-7ac88c3dd3ca/embed
+
+Task3:
+https://albert6051.carto.com/builder/cd729a11-eb82-4382-b1c7-c6c224e227d9/embed
+
+Task5:
+https://albert6051.carto.com/builder/52443473-fc9a-46dc-8041-afab0c22e973/embed
+
+Task6:
+https://bl.ocks.org/albert6051/raw/a5de1e459168f9202fcede63dd7d4364/
+
+Task8:
+https://albert6051.carto.com/builder/7fbd7b9a-70da-467f-bdc3-b23a52128df0/embed
