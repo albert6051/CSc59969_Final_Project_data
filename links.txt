@@ -1,17 +1,20 @@
 Task1:
-https://bl.ocks.org/albert6051/raw/5dfc934c6df5f97a6291f8aedc742e9c/
+https://albert6051.carto.com/builder/5140b4fe-ae2d-43ad-ae92-18e5d0e0d2fc/embed
 
 Task2:
-https://albert6051.carto.com/builder/1e8f3da7-eb38-4c2f-b0d3-7ac88c3dd3ca/embed
+https://albert6051.carto.com/builder/804ca5b9-f73a-4801-bfe8-a298054289d6/embed
 
 Task3:
-https://albert6051.carto.com/builder/cd729a11-eb82-4382-b1c7-c6c224e227d9/embed
+https://albert6051.carto.com/builder/c6becfab-050a-450a-a5bf-035467b55eaa/embed
 
 Task5:
-https://albert6051.carto.com/builder/52443473-fc9a-46dc-8041-afab0c22e973/embed
+https://albert6051.carto.com/builder/da122d7e-6064-4ed8-a82d-47ca1e8c3133/embed
 
 Task6:
-https://bl.ocks.org/albert6051/raw/a5de1e459168f9202fcede63dd7d4364/
+https://albert6051.carto.com/builder/3e867847-828c-4ee5-ad8a-ff99ea0657d4/embed
+
+Task7:
+http://bl.ocks.org/albert6051/raw/421103e9b92bd77bb65cf66c9e32df8d/
 
 Task8:
-https://albert6051.carto.com/builder/7fbd7b9a-70da-467f-bdc3-b23a52128df0/embed
+https://albert6051.carto.com/builder/f9008978-9e2c-490b-8458-492f35a07f2e/embed
