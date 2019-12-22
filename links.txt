@@ -14,7 +14,7 @@ Task6:
 https://albert6051.carto.com/builder/3e867847-828c-4ee5-ad8a-ff99ea0657d4/embed
 
 Task7:
-http://bl.ocks.org/albert6051/raw/421103e9b92bd77bb65cf66c9e32df8d/
+http://bl.ocks.org/albert6051/raw/ca9291c774126930e206d838bdc2b42e/
 
 Task8:
 https://albert6051.carto.com/builder/f9008978-9e2c-490b-8458-492f35a07f2e/embed
